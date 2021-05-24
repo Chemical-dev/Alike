@@ -21,8 +21,14 @@ new_york_city.csv
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+
 Reditt
 Hacker Rank
 Stack Overflow
 GitHub
 
+||||||| 63a39b4
+
+=======
+Wikipedia
+>>>>>>> refactoring
